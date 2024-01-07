@@ -1,6 +1,4 @@
  
-
- 
 # Baby Eliza 
 
 Baby Eliza is a simple chatbot built in Python based on the classic ELIZA bot. It uses pattern matching rules and response templates to simulate conversation.
@@ -24,8 +22,6 @@ To use Baby Eliza:
 4. Run `python bot.py` to launch the bot
 
 5. Chat with Baby Eliza in the console window
-
-See the Development section below for how to expand the bot's capabilities.
 
 ## File Structure
 
